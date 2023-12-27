@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.11.0",
+    "react-id-generator": "^3.0.2",
+    "uniqid": "^5.4.0"
+  }
+}
